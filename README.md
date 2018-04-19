@@ -35,6 +35,11 @@ CAN1H and CAN1L should be connected to the MCP2515 CAN H and L lines via Etherne
 Below is a crude pinout I made for the Radar(Left) and the Giraffe female connector (Right):
 ￼    ￼
 
+![alt text](https://github.com/wocsor/Toyota-Radar-Spoofer/blob/master/radar.png?raw=true)
+![alt text](https://github.com/wocsor/Toyota-Radar-Spoofer/blob/master/Giraffe.png?raw=true) 
+
+
+
 The pins connect as follows:
 
 |RADAR PIN	| FUNCTION	| GIRAFFE PIN|
