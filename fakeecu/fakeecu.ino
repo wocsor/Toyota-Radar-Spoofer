@@ -2,8 +2,6 @@
 #include <mcp_can.h>
 
 MCP_CAN CAN(10);          //set SPI Chip Select to pin 10
-
-unsigned char TARGET_IDS[5] = {0x24, 0x25, 0xaa, 0xb4, 0xba};
               
 void setup()
 {
